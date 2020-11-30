@@ -1,7 +1,7 @@
 # Centralize SliderView (Swift - UIKit)
 
 Designers make us in the trouble. Whit this SliderView you can set 0 in the center of Slider! Yeah, it's cool.
-
+![Alt Text](https://github.com/amir-ardalanuk/CentralizeSliderView/blob/main/Nov-30-2020%2013-53-39.gif)
 ## Installation
 
 you only need to add CentralizeSliderView.swift file in your project.
